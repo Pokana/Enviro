@@ -38,11 +38,6 @@ nav{
 	width: 100%;
 	box-sizing: border-box;
 }
-
-nav li{
-	float: none;
-	display: inline;
-}
 	
 main{
 	width: 100%;
